@@ -29,7 +29,7 @@ export enum Accomodation {
   Apartment = 'apartment',
   House = 'house',
   Room = 'room',
-  Hotel = 'hotel,'
+  Hotel = 'hotel',
 }
 
 export enum Facility {

@@ -1,5 +1,5 @@
 import { User } from './user.js';
-import { Accomodation, City, Facility } from '../consts.js';
+import { Accomodation, City, Facility } from '../utils/consts.js';
 import { Coordinates } from './coorditates.js';
 
 export type Offer = {

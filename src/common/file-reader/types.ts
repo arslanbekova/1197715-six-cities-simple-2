@@ -1,4 +1,4 @@
-import { Accomodation, City, Facility } from '../../consts.js';
+import { Accomodation, City, Facility } from '../../utils/consts.js';
 
 export type AccomodationStrings = keyof typeof Accomodation;
 export type CityStrings = keyof typeof City;
