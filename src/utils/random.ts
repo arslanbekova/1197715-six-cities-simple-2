@@ -9,3 +9,5 @@ export const getRandomItems = <T>(items: T[]):T[] => {
 
 export const getRandomItem = <T>(items: T[]):T =>
   items[generateRandomValue(0, items.length - 1)];
+
+export const getRandomString = (startIdx = 2, finishIdx = 7, base = 36): string => Math.random().toString(base).slice(startIdx, finishIdx);
