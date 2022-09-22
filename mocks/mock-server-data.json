@@ -1,0 +1,36 @@
+{
+  "api": {
+    "titles": [
+      "Beautiful & luxurious studio",
+      "Nice, cozy, warm big bed house",
+      "Wood and stone place",
+      "Canal view flat",
+      "Starting to feel like home"
+    ],
+    "descriptions": [
+      "A quiet cozy and picturesque that hides behind a river by the unique lightness of Amsterdam.",
+      "Nice, cozy, warm place Nice, cozy, warm place",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "Lorem Ipsum has been the industry's standard dummy",
+      "text ever since the 1500s, when an unknown printer took a galley of type"
+    ],
+    "previewImgs": [
+      "amsterdam-apartment.jpg",
+      "amsterdam-apartment2.jpg",
+      "cologne-apartment3.jpg",
+      "cologne-apartment4.jpg",
+      "cologne-apartment.jpg"
+    ],
+    "photos": [
+      "book.jpg",
+      "institute-book.jpg",
+      "dark-tower.jpg",
+      "shining.jpg",
+      "draft.jpg",
+      "room.jpg"
+    ],
+    "names": ["Monika", "Rachel", "Phoebe", "Joey", "Chandler", "Ross"],
+    "emails": ["monika@mail.ru", "rachel@gmail.com", "phoebe@yahoo.com", "joey@yandex.ru", "chandler@gmail.com", "ross@aplle.com"],
+    "avatars": ["ross.jpg", "rachel.jpg", "phoebe.jpg", "joey.jpg", "chandler.jpg", "monika.jpg"]
+  }
+}
